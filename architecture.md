@@ -13,5 +13,8 @@ personal-firewall/
 ├── setup_iptables.sh
 └── docs/
     ├── architecture.md
-    ├── screenshots.md
+
+
+    <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/efff146a-1147-4775-9f2a-aaee3fe18f37" />
+
     
